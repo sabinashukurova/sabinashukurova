@@ -15,20 +15,17 @@
 - 🌱 &nbsp; Learning more about developing optimized web applications and websites in react, nextjs etc..
 - ✍️ &nbsp; Pursuing DIY crafts, listening music, swimming, reading books as hobbies/side hustles.
 
-<h3>🛠 Tech Stack</h3>
+<br />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinashukurova&layout=compact&theme=tokyonight" />
+</p>
 
-- 💻 &nbsp; JS | TS | Phyton
-- 🌐 &nbsp; HTML | CSS(SCSS/SASS) | JavaScript(TypeScript) | Bootstrap 3+/4+ | ReactJS | NextJS
-- 🔧 &nbsp; Git
 
-<br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabinashukurova&show_icons=true)](https://github.com/sabinashukurova)
 
-<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-
+<h3> 🤝🏻 Connect with Me </h3>
 <a href="mailto:shukurova.sebine@gmail.com"><img alt="Email" src="https://img.shields.io/badge/E--mail-shukurova.sebine@gmail.com-green"></a>
 </p>
 
